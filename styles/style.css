@@ -37,7 +37,7 @@ main{
   background-color: var(--white);
   border-radius: 15px;
   overflow: hidden;
-  padding: 1.5rem;
+  padding: 1.4rem;
   display: grid;
   text-align: center;
   line-height: 1.15;
